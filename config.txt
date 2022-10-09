@@ -11,8 +11,6 @@ wx96b21b1ac5fe8658",
 "user": ["oYpt76PsVH7YrpcbOarLu9WzTD8I"],
  
 # 信息配置
-# 和风天气apikey
-"weather_key": "e5bd08a3952d445db7611829e591f942",
 # 所在地区
 "region": "济南",
 # 生日1
