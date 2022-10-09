@@ -11,8 +11,6 @@ wx96b21b1ac5fe8658",
 "user": ["oYpt76PsVH7YrpcbOarLu9WzTD8I"],
  
 # 信息配置
-# 所在地区
-"region": "济南",
 # 生日1
 "birthday1": {"name": "小林", "birthday": "2001-01-01"},
 # 生日2
